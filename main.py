@@ -44,5 +44,4 @@ def main():
         print(fighter.attack())
         print("Монстр побежден!\n")
 
-if __name__ == "__main__":
-    main()
+main()
